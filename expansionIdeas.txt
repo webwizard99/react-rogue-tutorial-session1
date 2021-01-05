@@ -1,0 +1,13 @@
+X gold as own stat
+X stats on player
+X stats on monsters
+- inventory control
+- items equippable
+- use potion
+- player has exp
+- monsters give exp
+- leveled player
+- leveled monsters
+- leveled items
+- chase script
+- control with gamepad / xbox controller
